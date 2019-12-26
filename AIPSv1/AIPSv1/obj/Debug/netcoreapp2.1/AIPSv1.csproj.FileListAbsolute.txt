@@ -1,0 +1,14 @@
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\bin\Debug\netcoreapp2.1\AIPSv1.deps.json
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\bin\Debug\netcoreapp2.1\AIPSv1.runtimeconfig.json
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\bin\Debug\netcoreapp2.1\AIPSv1.runtimeconfig.dev.json
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\bin\Debug\netcoreapp2.1\AIPSv1.dll
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.csprojAssemblyReference.cache
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.csproj.CoreCompileInputs.cache
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.RazorAssemblyInfo.cache
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.RazorAssemblyInfo.cs
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.AssemblyInfoInputs.cache
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.AssemblyInfo.cs
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.RazorTargetAssemblyInfo.cache
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\bin\Debug\netcoreapp2.1\AIPSv1.pdb
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.dll
+C:\Users\krisj\source\repos\AIPSv1\AIPSv1\obj\Debug\netcoreapp2.1\AIPSv1.pdb
